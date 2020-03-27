@@ -1,0 +1,6 @@
+## to install the latest version of R on ubuntu 18.04 (bionic beaver):
+## follow the steps in this page:
+https://askubuntu.com/questions/1188794/unable-to-install-latest-r-version-on-ubuntu-18-04-linux
+## using the second answer by Taras
+
+
